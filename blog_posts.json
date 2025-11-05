@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with React Hooks",
+    "excerpt": "Learn how to use React Hooks to manage state and side effects in functional components.",
+    "content": "React Hooks revolutionized the way we write React components. In this post, we'll explore useState, useEffect, and other essential hooks.",
+    "date": "2024-03-15",
+    "icon": "\u269b\ufe0f",
+    "tags": [
+      "React",
+      "JavaScript",
+      "Frontend"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "CSS Grid vs Flexbox: When to Use Which",
+    "excerpt": "A comprehensive guide to choosing between CSS Grid and Flexbox for your layout needs.",
+    "content": "Both CSS Grid and Flexbox are powerful layout tools, but they serve different purposes. Let's dive into when to use each one.",
+    "date": "2024-03-10",
+    "icon": "\ud83c\udfa8",
+    "tags": [
+      "CSS",
+      "Web Design",
+      "Frontend"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Building RESTful APIs with Flask",
+    "excerpt": "Step-by-step tutorial on creating RESTful APIs using Python and Flask framework.",
+    "content": "Flask is a lightweight and flexible Python web framework. In this tutorial, we'll build a complete RESTful API from scratch.",
+    "date": "2024-03-05",
+    "icon": "\ud83d\udc0d",
+    "tags": [
+      "Python",
+      "Flask",
+      "Backend"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "JavaScript Async/Await Explained",
+    "excerpt": "Understanding asynchronous JavaScript with async/await for cleaner and more readable code.",
+    "content": "Async/await makes asynchronous JavaScript code look and behave a bit more like synchronous code. Let's explore how it works.",
+    "date": "2024-02-28",
+    "icon": "\u26a1",
+    "tags": [
+      "JavaScript",
+      "Async",
+      "Programming"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Modern Web Design Principles",
+    "excerpt": "Key principles and best practices for creating modern, user-friendly web interfaces.",
+    "content": "Modern web design is about more than just aesthetics. It's about creating intuitive, accessible, and performant user experiences.",
+    "date": "2024-02-20",
+    "icon": "\u2728",
+    "tags": [
+      "Design",
+      "UI/UX",
+      "Web Development"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Git Workflow Best Practices",
+    "excerpt": "Essential Git workflows and branching strategies for efficient team collaboration.",
+    "content": "Mastering Git workflows is crucial for any developer. Here are the best practices for working with Git in a team environment.",
+    "date": "2024-02-15",
+    "icon": "\ud83d\udd00",
+    "tags": [
+      "Git",
+      "Version Control",
+      "Development"
+    ]
+  }
+]
